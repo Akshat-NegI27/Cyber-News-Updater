@@ -1,4 +1,4 @@
-# News Fetcher
+# Cyber News Updater
 
 A Python script that fetches the latest cybersecurity news from The Hacker News using web scraping. The user can select from different categories such as general news, data breaches, cyber attacks, vulnerabilities, and malware. The script prints out the headlines and allows the user to choose an article to read in detail.
 
