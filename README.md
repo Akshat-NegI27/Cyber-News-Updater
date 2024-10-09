@@ -20,5 +20,10 @@ pip install colorama
 ```
 ## Screenshots
 
+![About Page](https://github.com/Akshat-NegI27/Cyber-News-Updater/blob/main/Screenshots/%20(1).png?raw=true)
+
+![About Page](https://github.com/Akshat-NegI27/Cyber-News-Updater/blob/main/Screenshots/%20(2).png?raw=true)
+
+![About Page](https://github.com/Akshat-NegI27/Cyber-News-Updater/blob/main/Screenshots/%20(3).png?raw=true)
 
 
